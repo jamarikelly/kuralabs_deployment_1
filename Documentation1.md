@@ -57,5 +57,18 @@ sudo apt install python3-10-venv
  
  - use git clone to copy deployment1 repo files of the flask application to your local computer.
  - to compress the files from the repo, go to this link 👉 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/applications-sourcebundle.html
+ - after files are compressed/zipped. head over to AWS Elastic Beanstalk.
+ - select create a new environment
+ - select web server environment
 
+7. Enter the following configurations;
+ 
+ * application name: url-shortner
+ * Environment name: Urlshortner-env
+ * platform: Python
+ * platform branch: 3.8
+ * platform version: 3.3.16
+ * Application code: upload yout code local file 
+ 
+ 8. once the environment is created, select the URL provided. see 
 
