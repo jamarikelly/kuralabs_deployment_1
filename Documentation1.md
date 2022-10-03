@@ -1,4 +1,4 @@
-# Documentation for Second Deployment 
+# Documentation for First Deployment 
 
 ## Set Up
 
@@ -53,4 +53,9 @@ sudo apt install python3-10-venv
 - After its validated, click apply then save.
 - You should see the build happening, if not, scan the repository.
 
-6.
+6. Download application file from Github and deploy to Elastic Beanstalk using the steps below;
+ 
+ - use git clone to copy deployment1 repo files of the flask application to your local computer.
+ - to compress the files from the repo, go to this link 👉 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/applications-sourcebundle.html
+
+
