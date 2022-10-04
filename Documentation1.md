@@ -70,5 +70,6 @@ sudo apt install python3-10-venv
  * platform version: 3.3.16
  * Application code: upload yout code local file 
  
- 8. once the environment is created, select the URL provided. see 
+ 8. once the environment is created, select the URL provided to see the deployed application.
+ 9. please click on the link 👉 https://github.com/jamarikelly/kuralabs_deployment_1/blob/main/deployment_1%20images.pdf to see images throughout the deployment 
 
